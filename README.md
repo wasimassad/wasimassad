@@ -4,13 +4,18 @@
 
 
 <h1 align="center">Hi 👋, I'm Wasim Assad</h1>
-<h3 align="center">Aspiring Cybersecurity & Frontend Developer | Passionate About Building & Securing Applications</h3>
+<h3 align="center">Aspiring Software Engineer & Cybersecurity Professional | Passionate About Developing Secure, User-Focused Applications</h3>
 
 - 🔭 I’m currently working on [Port Scanner (Python)](https://github.com/wasimassad/portscanner-with-Python)
 
-- 🌱 I’m currently learning **Splunk, MITRE ATT&CK, React.js, and Red Team tools**
+- 🌱 I’m currently learning :
+  **
+    Programming & Development: Java, Python, C/C++, JavaScript, React.js, HTML, CSS
+    Cybersecurity Tools & Frameworks: Splunk, MITRE ATT&CK, Red Team Tools, Kali Linux, PowerShell
+    Version Control & Platforms: GitHub, GitLab, Linux, Windows, Mac OS
+  **
 
-- 👯 I’m looking to collaborate on **Cybersecurity tools and automation scripts – DM me for collabs!**
+- 👯 I’m looking to collaborate on **Cybersecurity & Software Engineering Enthusiast | Creating Tools, Scripts, & Solutions | Open to Collaborations**
 
 - 🤝 I’m looking for help with **Security detection engineering & hands-on network defense techniques**
 
