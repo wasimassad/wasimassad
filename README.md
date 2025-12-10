@@ -27,7 +27,7 @@
 
 - 📫 How to reach me **waseem985asad@gmail.com**
 
-- 📄 Know about my experiences [https://acrobat.adobe.com/id/urn:aaid:sc:US:42ef94ed-1aeb-42d0-befe-ad45a47db1ec]()
+- 📄 Know about my experiences https://acrobat.adobe.com/id/urn:aaid:sc:AP:d8555b1f-f7d7-4e77-86c8-5730cda76152
 
 - ⚡ Fun fact **I built and secured my restaurant's website before diving into ethical hacking!**
 
