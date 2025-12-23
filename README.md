@@ -4,30 +4,56 @@
 
 
 <h1 align="center">Hi 👋, I'm Wasim Assad</h1>
-<h3 align="center">Aspiring Software Engineer & Cybersecurity Professional | Passionate About Developing Secure, User-Focused Applications</h3>
+<h3 align="center">Software Engineer | Web & Full-Stack Developer</h3>
+<p align="center">
+Building real-world web applications with measurable impact.  
+Focused on clean code, backend logic, and user-centered solutions.
+</p>
+
+
+### 👨‍💻 About Me
+- 🎓 **B.S. Computer Engineering** @ University of Wisconsin–Milwaukee (May 2026)
+- 💻 Web Developer (In-House & Volunteer) with production experience
+- 📊 Built and maintained platforms with **25K+ annual sessions**
+- 🔐 Strong interest in **secure and reliable systems**
+
+---
+### 🛠️ Tech Stack
+**Languages**
+- Java, Python, C, C++, JavaScript
+
+**Web & Frameworks**
+- HTML5, CSS3, React, Django, Bootstrap
+
+**Databases**
+- SQL, MySQL
+
+**Tools & Platforms**
+- Git, GitHub, GitLab  
+- Linux (Kali), Windows, macOS
+
+**Cybersecurity Tools & Frameworks**
+-Splunk, MITRE ATT&CK, Red Team Tools, Kali Linux, PowerShell
+
+---
+### 📜 Certifications
+- CompTIA Security+ (2025)
+- Git & GitHub Bootcamp (Udemy)
+---
 
 - 🔭 I’m currently working on [Port Scanner (Python)](https://github.com/wasimassad/portscanner-with-Python)
-
-- 🌱 I’m currently learning :
-  **
-    Programming & Development: Java, Python, C/C++, JavaScript, React.js, HTML, CSS
-    Cybersecurity Tools & Frameworks: Splunk, MITRE ATT&CK, Red Team Tools, Kali Linux, PowerShell
-    Version Control & Platforms: GitHub, GitLab, Linux, Windows, Mac OS
-  **
 
 - 👯 I’m looking to collaborate on **Cybersecurity & Software Engineering Enthusiast | Creating Tools, Scripts, & Solutions | Open to Collaborations**
 
 - 🤝 I’m looking for help with **Security detection engineering & hands-on network defense techniques**
 
 - 👨‍💻 All of my projects are available at [https://github.com/wasimassad](https://github.com/wasimassad)
-
-- 📝 I regularly write articles on [https://github.com/wasimassad](https://github.com/wasimassad)
-
+  
 - 💬 Ask me about **Python, React, cybersecurity scripts, and how to automate stuff with PowerShel**
 
 - 📫 How to reach me **waseem985asad@gmail.com**
 
-- 📄 Know about my experiences https://acrobat.adobe.com/id/urn:aaid:sc:AP:d8555b1f-f7d7-4e77-86c8-5730cda76152
+- 📄 Know about my experiences https://acrobat.adobe.com/id/urn:aaid:sc:AP:33d9fead-b3f5-4ac6-979a-9f189587f060
 
 - ⚡ Fun fact **I built and secured my restaurant's website before diving into ethical hacking!**
 
