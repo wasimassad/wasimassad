@@ -20,13 +20,13 @@ Focused on clean code, backend logic, and user-centered solutions.
 ---
 ### 🛠️ Tech Stack
 **Languages**
-- Java, Python, C, C++, JavaScript
+-	Java, Python, C, C++, JavaScript, TypeScript
 
 **Web & Frameworks**
-- HTML5, CSS3, React, Django, Bootstrap
+- : HTML5, CSS3, React, Node.js, Express, Django, Bootstrap 
 
 **Databases**
-- SQL, MySQL
+- PostgreSQL, MySQL, SQL
 
 **Tools & Platforms**
 - Git, GitHub, GitLab  
