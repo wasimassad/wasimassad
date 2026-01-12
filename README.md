@@ -26,7 +26,7 @@ Focused on clean code, backend logic, and user-centered solutions.
 - : HTML5, CSS3, React, Node.js, Express, Django, Bootstrap 
 
 **Databases**
-- PostgreSQL, MySQL, SQL
+- PostgreSQL, MySQL
 
 **Tools & Platforms**
 - Git, GitHub, GitLab  
