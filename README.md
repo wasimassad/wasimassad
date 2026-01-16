@@ -53,7 +53,7 @@ Focused on clean code, backend logic, and user-centered solutions.
 
 - 📫 How to reach me **waseem985asad@gmail.com**
 
-- 📄 Know about my experiences https://acrobat.adobe.com/id/urn:aaid:sc:AP:33d9fead-b3f5-4ac6-979a-9f189587f060
+- 📄 Know about my experiences https://acrobat.adobe.com/id/urn:aaid:sc:ap:42b7a753-dde5-4c46-8af5-525a821aadb5
 
 - ⚡ Fun fact **I built and secured my restaurant's website before diving into ethical hacking!**
 
