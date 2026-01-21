@@ -41,7 +41,8 @@ Focused on clean code, backend logic, and user-centered solutions.
 - Git & GitHub Bootcamp (Udemy)
 ---
 
-- 🔭 I’m currently working on [Port Scanner (Python)](https://github.com/wasimassad/portscanner-with-Python)
+- 🔭 I’m currently building **SecureVault**, a full-stack secure vault app using React, Node.js, Express, and PostgreSQL with JWT authentication and AES-256 encryption.  
+(https://github.com/wasimassad/SecureVault.git)
 
 - 👯 I’m looking to collaborate on **Cybersecurity & Software Engineering Enthusiast | Creating Tools, Scripts, & Solutions | Open to Collaborations**
 
