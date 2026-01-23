@@ -23,7 +23,7 @@ Focused on clean code, backend logic, and user-centered solutions.
 -	Java, Python, C, C++, JavaScript, TypeScript
 
 **Web & Frameworks**
-- : HTML5, CSS3, React, Node.js, Express, Django, Bootstrap 
+- HTML5, CSS3, React, Node.js, Express, Django, Bootstrap 
 
 **Databases**
 - PostgreSQL, MySQL
@@ -33,7 +33,7 @@ Focused on clean code, backend logic, and user-centered solutions.
 - Linux (Kali), Windows, macOS
 
 **Cybersecurity Tools & Frameworks**
--Splunk, MITRE ATT&CK, Red Team Tools, Kali Linux, PowerShell
+- Splunk, MITRE ATT&CK, Red Team Tools, Kali Linux, PowerShell
 
 ---
 ### 📜 Certifications
